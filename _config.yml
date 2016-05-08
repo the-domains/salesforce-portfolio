@@ -1,6 +1,6 @@
 name: salesforce portfolio
 favicon: null
-layout_spectrum: 0.7657897260505706
+layout_spectrum: 1
 typography_spectrum: 0.93409
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.6981967771425843
-  lightness: 0.5396589254960418
-  saturation: 0.21848959918133914
-  rhythmicContrast: 0.2588935212697834
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
